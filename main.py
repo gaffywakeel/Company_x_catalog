@@ -1,3 +1,4 @@
+# noinspection PyTypeChecker
 def calculate_total_price(item1_quantity: object, item2_quantity: object, item3_quantity: object) -> object:
     item1_price = 500.0
     item2_price = 1000.00
@@ -27,7 +28,8 @@ def calculate_total_price(item1_quantity: object, item2_quantity: object, item3_
     print(f"combo 1(item 1 + 2)                                  {item1_price + item2_price}")
     print(f"combo 2(item 2 + 3)                                  {item2_price + item3_price}")
     print(f"combo 3(item 1 + 3)                                  {item1_price + item3_price}")
-    print(f"combo 4(item 1 + 2 + 3)                              {item1_price + item2_price + item3_price}")
+    print(f"combo 4(item 1 + 2 + 3)                              {gift_price}")
     print("Total Price: ", total_price)
+
 
 calculate_total_price(3, 2, 1)

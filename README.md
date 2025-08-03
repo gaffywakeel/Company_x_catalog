@@ -1,4 +1,4 @@
-# Gaffy_catalog
+# Gaffy_Wakeel_catalog
 
 Online Store catalog
 -------------------

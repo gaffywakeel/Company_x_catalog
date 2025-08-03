@@ -1,4 +1,4 @@
-# Company_x_catalog
+# Gaffy_catalog
 
 Online Store catalog
 -------------------
